@@ -3,4 +3,4 @@
 
 New react skills!
 
-Advanced Tuts for React
+Advanced Tuts for React!

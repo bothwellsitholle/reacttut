@@ -1,4 +1,4 @@
-# REACT TUT
+# REACT TUTS
 ## With Anil Sadhu
 
 New react skills!
